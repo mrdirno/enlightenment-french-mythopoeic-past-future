@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-mythopoeic-past-future",
+  "title": "The Cartographer of Echoes",
+  "tagline": "In a Paris of rain and ghosts, a man who maps forgotten pasts must guide a scholar haunted by a city that never was.",
+  "target_words": 70000,
+  "actual_words": 76891,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Potential Pasts",
+    "Memory as a Collective Landscape",
+    "The Architecture of Belief",
+    "Enlightenment Reason vs. Mythopoetic Resonance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "An Appointment with a Ghost",
+      "words": 3200
+    },
+    {
+      "ch": 2,
+      "title": "The Map Not Drawn",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Villa of Echoes",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Whispers in the Stone",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "The Lion's Mouth",
+      "words": 3500
+    },
+    {
+      "ch": 6,
+      "title": "The First Resonance",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "The Guild of Luminaires",
+      "words": 3400
+    },
+    {
+      "ch": 8,
+      "title": "The Woman by the Fountain",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "A Crack in Time",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Scent of Orange Blossoms",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "The Ink of Memory",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "The Council of Shadows",
+      "words": 3600
+    },
+    {
+      "ch": 13,
+      "title": "The Unwritten City",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "The Price of Echoes",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "The Key Turns",
+      "words": 3500
+    },
+    {
+      "ch": 16,
+      "title": "A Past That Gathers",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "The Drowning of Émile",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "Silvain's Burden",
+      "words": 3400
+    },
+    {
+      "ch": 19,
+      "title": "The Fabric of What Might Have Been",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Final Cartography",
+      "words": 3600
+    },
+    {
+      "ch": 21,
+      "title": "At the Cliff's Edge",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Choice of Futures",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "Echo into Anchor",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "A New Layer on the Map",
+      "words": 3400
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Silvain and Émile encounter a 'living echo'—a person or creature formed entirely from a potent, collective memory of a place that was almost real.",
+      "Create a journal entry from a long-dead Luminaire cartographer, describing the moment they first successfully mapped a 'mythopoetic layer' and the personal cost it incurred.",
+      "Draft a scene set in the 'unwritten city' of white stone from Émile's dreams, from the perspective of the woman in the green dress waiting by the fountain.",
+      "Write a monologue for Madame Thérèse explaining her backstory: how a simple *libraire* became a dealer in narratives and a gatekeeper for those touched by echoes."
+    ],
+    "technical": [
+      "Build an interactive 'Echo Map' visualization where users can explore different 'mythopoetic layers' of Paris, with each layer representing a potent but unrealized past (e.g., a Paris that remained Roman, a Paris built entirely of crystal, etc.).",
+      "Design a generative text tool that simulates 'echo leakage': it takes a seed description of a real place and gradually infuses it with elements from a user-defined 'potential past,' blending the two narratives."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jorge Luis Borges",
+      "Ursula K. Le Guin",
+      "Italo Calvino",
+      "Susanna Clarke"
+    ]
+  },
+  "cover_prompt": "A man in a worn 18th-century coat meticulously traces glowing, spectral lines in the air, his fingers pulling luminous city plans from the mist, while beside him a scholar stares in awe and terror at a shimmering, impossible Parisian spire materializing from the rain, [in a grand, rain-slicked Parisian square at night where the cobblestones reflect not lamplight, but half-formed memories and ghostly architecture], [in the atmospheric style of a synthesis between the luminous romanticism of Caspar David Friedrich and the detailed, mysterious urban realism of Edward Hopper, with the ethereal texture of a faded engraving], [book cover framing, a centered and intimate composition viewed from a low, dramatic angle that emphasizes the soaring, emerging spectral city against the real one], [dramatic chiaroscuro lighting with a single source of warm gaslight cutting through the cool, volumetric rain and the ghostly blue-white bioluminescence of the memories, palette of deep Prussian blue, charcoal grey, sepia, and ethereal gold], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
